@@ -1,0 +1,13 @@
+package me.courage.RevenueTracker;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RevenueTrackerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RevenueTrackerApplication.class, args);
+	}
+
+}
