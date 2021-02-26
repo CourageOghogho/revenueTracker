@@ -1,11 +1,12 @@
 # revenueTracker
 
 The project is based on Java language.
-The following frameworks and technologies were used
+The following frameworks, technologies and dependencies were used
 1. Spring Boots
 2. Rest API
-3. JPA
-4. MySQL
+3. HATEOAS
+4. JPA
+5. MySQL
 
 ------------------------------------------------------
 The rest endpoints
