@@ -72,7 +72,7 @@ public class RevenueTypeController {
 		error.setTimeStamp(System.currentTimeMillis());
 		
 		return new ResponseEntity<>(error, HttpStatus.NOT_FOUND);
-	 }git
+	 }
 
 	@ExceptionHandler
 	public ResponseEntity<RevenueTypeErrorResponse> handleException(Exception exc) {
